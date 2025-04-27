@@ -20,3 +20,11 @@ It highlights temperature efficiency data in **utility** and **generator systems
 1. Upload the original CSV to Google Colab (or through Google Drive).
 2. Run the provided notebook to replicate filtering and subset creation.
 3. Export and download the compiled CSV file.
+
+# Repository Checklist
+
+✅ Upload the original dataset (`Cooling_Boiler_Generator_Data_Summary_2023.csv`)  
+✅ Upload the filtered subset (`compiled_utility_generator_subset.csv`)  
+✅ Upload the notebook (`subset_creation_notebook.ipynb`)  
+✅ Draft a clear README.md describing purpose, contents, and process  
+✅ Make sure methods are reproducible in Google Colab
